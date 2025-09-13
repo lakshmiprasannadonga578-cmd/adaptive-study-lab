@@ -17,16 +17,16 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 220 25% 15%;
 
-    --primary: 220 85% 45%;
+    --primary: 330 85% 55%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 220 20% 95%;
-    --secondary-foreground: 220 25% 25%;
+    --secondary: 330 20% 95%;
+    --secondary-foreground: 330 25% 25%;
 
-    --muted: 220 15% 94%;
-    --muted-foreground: 220 10% 50%;
+    --muted: 330 15% 94%;
+    --muted-foreground: 330 10% 50%;
 
-    --accent: 265 85% 60%;
+    --accent: 340 85% 65%;
     --accent-foreground: 0 0% 100%;
 
     --success: 145 85% 45%;
@@ -38,20 +38,20 @@ All colors MUST be HSL.
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 220 15% 88%;
-    --input: 220 15% 92%;
-    --ring: 220 85% 45%;
+    --border: 330 15% 88%;
+    --input: 330 15% 92%;
+    --ring: 330 85% 55%;
 
     /* Academic gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(220 85% 45%), hsl(265 85% 60%));
-    --gradient-secondary: linear-gradient(135deg, hsl(220 20% 97%), hsl(220 15% 94%));
-    --gradient-accent: linear-gradient(135deg, hsl(265 85% 60%), hsl(285 85% 65%));
+    --gradient-primary: linear-gradient(135deg, hsl(330 85% 55%), hsl(340 85% 65%));
+    --gradient-secondary: linear-gradient(135deg, hsl(330 20% 97%), hsl(330 15% 94%));
+    --gradient-accent: linear-gradient(135deg, hsl(340 85% 65%), hsl(350 85% 70%));
     
     /* Study-specific colors */
-    --study-progress: 145 85% 45%;
-    --study-assessment: 35 85% 55%;
-    --study-analytics: 200 85% 50%;
-    --study-documents: 265 85% 60%;
+    --study-progress: 320 85% 50%;
+    --study-assessment: 340 85% 60%;
+    --study-analytics: 330 85% 55%;
+    --study-documents: 350 85% 65%;
 
     /* Shadows */
     --shadow-sm: 0 2px 4px -1px hsl(220 25% 15% / 0.1);
@@ -90,16 +90,16 @@ All colors MUST be HSL.
     --popover: 220 20% 12%;
     --popover-foreground: 220 15% 92%;
 
-    --primary: 220 85% 55%;
+    --primary: 330 85% 60%;
     --primary-foreground: 220 25% 8%;
 
-    --secondary: 220 15% 16%;
-    --secondary-foreground: 220 15% 85%;
+    --secondary: 330 15% 16%;
+    --secondary-foreground: 330 15% 85%;
 
-    --muted: 220 15% 14%;
-    --muted-foreground: 220 10% 65%;
+    --muted: 330 15% 14%;
+    --muted-foreground: 330 10% 65%;
 
-    --accent: 265 85% 65%;
+    --accent: 340 85% 70%;
     --accent-foreground: 220 25% 8%;
 
     --success: 145 85% 50%;
@@ -111,20 +111,20 @@ All colors MUST be HSL.
     --destructive: 0 75% 55%;
     --destructive-foreground: 220 15% 92%;
 
-    --border: 220 15% 20%;
-    --input: 220 15% 18%;
-    --ring: 220 85% 55%;
+    --border: 330 15% 20%;
+    --input: 330 15% 18%;
+    --ring: 330 85% 60%;
 
     /* Dark mode gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(220 85% 55%), hsl(265 85% 65%));
-    --gradient-secondary: linear-gradient(135deg, hsl(220 25% 8%), hsl(220 20% 12%));
-    --gradient-accent: linear-gradient(135deg, hsl(265 85% 65%), hsl(285 85% 70%));
+    --gradient-primary: linear-gradient(135deg, hsl(330 85% 60%), hsl(340 85% 70%));
+    --gradient-secondary: linear-gradient(135deg, hsl(330 25% 8%), hsl(330 20% 12%));
+    --gradient-accent: linear-gradient(135deg, hsl(340 85% 70%), hsl(350 85% 75%));
     
     /* Dark study colors */
-    --study-progress: 145 85% 50%;
-    --study-assessment: 35 85% 60%;
-    --study-analytics: 200 85% 55%;
-    --study-documents: 265 85% 65%;
+    --study-progress: 320 85% 55%;
+    --study-assessment: 340 85% 65%;
+    --study-analytics: 330 85% 60%;
+    --study-documents: 350 85% 70%;
 
     /* Dark shadows */
     --shadow-sm: 0 2px 4px -1px hsl(220 25% 2% / 0.3);
